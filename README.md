@@ -1,5 +1,5 @@
 # Exercise: consume a web service via Ajax
-
+ 
 * Time necessary : 1 day
 * Work mode : Solo
 * Repository: ajax-simple-web-service-request
@@ -26,3 +26,5 @@ The web service sits at this URL: https://thatsthespir.it/api. It is called the 
 * Make it look good via CSS (inspiration).
 * Publish it as a GitHub Page
 * When it works, share the link on your startup's discord channel.
+
+> This exercise is carried out as part of the Web Dev training of BeCode Charleroi.
